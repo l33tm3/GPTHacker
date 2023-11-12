@@ -2,7 +2,6 @@
     {
       "Introduction": {
         "title": "Prompt Hacking in LLMs",
-        "image": "Lock from \"@site/static/img/lock.webp\"",
         "description": "Prompt hacking is a term used to describe a type of attack that exploits the vulnerabilities of LLMs, by manipulating their inputs or prompts. Unlike traditional hacking, which typically exploits software vulnerabilities, prompt hacking relies on carefully crafting prompts to deceive the LLM into performing unintended actions."
       },
       "TypesOfPromptHacking": {
