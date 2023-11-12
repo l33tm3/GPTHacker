@@ -1,0 +1,9 @@
+{
+    "editor.defaultFoldingRangeProvider": "DanielSanMedium.dscodegpt",
+    "editor.defaultFormatter": "DanielSanMedium.dscodegpt",
+    "CodeGPT.apiKey": "Ollama",
+    "CodeGPT.model": "llama2:70b",
+    "CodeGPT.query.language": "Spanish",
+    "CodeGPT.Autocomplete.enabled": true,
+    "CodeGPT.Autocomplete.provider": "Ollama - codellama"
+}
